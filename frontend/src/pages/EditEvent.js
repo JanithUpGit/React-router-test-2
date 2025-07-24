@@ -1,6 +1,13 @@
+
+import EventForm from "../components/EventForm";
+
 function EditEvent(){
 
-    return <h1>EditEvent</h1>;
+    return <>
+
+    <EventForm/>
+    
+    </>;
     
 }
 
